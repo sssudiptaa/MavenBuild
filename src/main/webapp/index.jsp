@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! My Second Tomcat Deployment</h2>
+<h2>Hello World! SS's Tomcat Deployment</h2>
 </body>
 </html>
